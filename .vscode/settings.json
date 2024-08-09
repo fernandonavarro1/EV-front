@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#50a7e9",       // Cambia el color de fondo de la Activity Bar a azul
+    "activityBar.foreground": "#FFFFFF",       // Cambia el color de los iconos en la Activity Bar a blanco
+    "activityBar.border": "#50a7e9",           // Cambia el color del borde de la Activity Bar a azul (si el borde está habilitado)
+    "activityBarBadge.background": "#FF5733",  // Cambia el color de fondo de las insignias (badges) en la Activity Bar
+    "activityBarBadge.foreground": "#50a7e9",   // Cambia el color del texto de las insignias en la Activity Bar
+    "menubar.selectionBackground": "#50a7e9",    // Color de fondo del menú cuando se selecciona un elemento
+    "titleBar.border": "#50a7e9",                // Color del borde inferior de la barra de título
+
+  }
+}
